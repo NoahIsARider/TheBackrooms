@@ -2,7 +2,7 @@
 
 ## 游戏简介
 
-《后室》是一个基于Python和Pygame开发的第一人称3D迷宫恐怖游戏。游戏灵感来源于互联网上流行的"后室"(The Backrooms)都市传说，玩家将在一个无尽的、被黄色墙纸覆盖的迷宫中探索，同时躲避神秘的实体。
+《后室》是一个基于Python和Pygame开发的第一人称3D迷宫恐怖游戏。游戏灵感来源于互联网上流行的"[后室](https://en.wikipedia.org/wiki/The_Backrooms)"(The Backrooms)都市传说，玩家将在一个无尽的、被黄色墙纸覆盖的迷宫中探索，同时躲避神秘的实体。
 
 ![image](https://github.com/user-attachments/assets/272144e0-cb98-47da-a522-cf1b64fe774d)
 
