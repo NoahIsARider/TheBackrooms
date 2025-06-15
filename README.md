@@ -14,6 +14,8 @@
 - 诡异的黄色美学，营造令人不安的氛围
 - 生存恐怖元素，玩家需要躲避实体并在迷宫中生存
 
+![image](https://github.com/user-attachments/assets/2df31dc3-b9a5-4ad9-9c01-10bcb2631e2f)
+
 ![image](https://github.com/user-attachments/assets/180096f0-4e04-44a4-97c2-1488548cc131)
 
 
